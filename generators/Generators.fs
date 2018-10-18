@@ -13,6 +13,9 @@ open Generators.Common
 type Acronym() =
     inherit GeneratorExercise()
 
+type AffineCipher() =
+    inherit GeneratorExercise()
+
 type AllYourBase() =
     inherit GeneratorExercise()
 

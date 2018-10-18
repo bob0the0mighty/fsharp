@@ -1317,6 +1317,19 @@
       "difficulty": 0,
       "topics": null,
       "deprecated": true
+    },
+    {
+      "slug": "affine-cipher",
+      "uuid": "9e4e5159-aa20-418e-bdb9-cc7819dc4777",
+      "core": false,
+      "unlocked_by": null,
+      "difficulty": 0,
+      "topics": [
+        "algorithms",
+        "strings",
+        "transforming"
+      ],
+      "deprecated": false
     }
   ]
 }
